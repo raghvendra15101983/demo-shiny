@@ -10,7 +10,9 @@ This repository contains files to run the R Shiny App
 
 # Features
 This template is made on R Shiny framework
+
 The UI interface is modularized in components for code simplicity
+
 The app.R shows the order of code execution and launched the app
 
 # How to Run
